@@ -3,6 +3,8 @@ body {
   margin: 0;
   height: 100vh;
   font-family: "Poppins";
+  background-color: #1e272e;
+  color: #fff;
 }
 
 header {
